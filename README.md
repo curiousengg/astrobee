@@ -5,8 +5,7 @@
 <img src="doc/images/astrobee.png" srcset="../images/astrobee.png 1x"
   title="Astrobee" align="right" style="display: inline"/>
 Three NASA [Astrobee free-flying robots](https://nasa.gov/astrobee/) have been operating inside
-the International Space Station (ISS) since 2019. This [`astrobee`](https://github.com/nasa/astrobee) repository contains source code for the Astrobee Robot Software, consisting of
-the flight software that runs onboard the Astrobee robots, a software simulator, and supporting tools, primarily written in C++.
+the International Space Station (ISS) since 2019. This [`astrobee`](https://github.com/nasa/astrobee) repository contains source code for the Astrobee Robot Software, consisting of the flight software that runs onboard the Astrobee robots, a software simulator, and supporting tools, primarily written in C++.
 
 Astrobee's flight software performs vision-based localization,
 provides autonomous navigation, docking and perching, manages various sensors
